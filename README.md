@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Raphael Mendonça Riquetto, tenho 21 anos e sou natural de São Paulo. Sou formado em Análise e Desenolvimento de Sistemas pela FMU. Atualmente, estou cursando Engenharia da Computação na Faculdade Engenheiro Salvador Arena. Sou apaixonado por tecnologia e estou sempre em busca de adquirir mais conhecimento.
+Me chamo Raphael Mendonça Riquetto, tenho 22 anos e sou natural de São Paulo. Sou formado em Análise e Desenolvimento de Sistemas pela FMU. Atualmente, estou cursando Engenharia da Computação na Faculdade Engenheiro Salvador Arena. Já passei por estágios na Metalfrio Solutions e também Itaú Unibanco. Sou apaixonado por tecnologia e estou sempre em busca de adquirir mais conhecimento.
 
 ---
 
