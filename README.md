@@ -96,7 +96,6 @@ Me chamo Raphael Mendonça Riquetto, tenho 22 anos e sou natural de São Paulo. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"
 />
-    />
     <img 
     align="left" 
     alt="AWS" 
