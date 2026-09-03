@@ -115,21 +115,11 @@ Me chamo Raphael Mendonça Riquetto, tenho 22 anos e sou natural de São Paulo. 
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Raphareuuu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raphareuuu&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FabriNeves&hide=Html&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raphareuuu&theme=transparent) |
+| :-: | :-: | :-: |
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphareuuu&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raphareuuu&theme=transparent) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Raphareuuu&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
-</p>
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphareuuu&layout=compact&show_icons=false&langs_count=7&theme=transparent) |
+| :-: |
